@@ -1,0 +1,2 @@
+INSERT INTO MusicDB.Review (Review_ID, Review_Score, Review_Comment, Review_Authour, Album_ID) VALUES (1, 10, 'Lemmy is great', 'Jim', 1);
+INSERT INTO MusicDB.Review (Review_ID, Review_Score, Review_Comment, Review_Authour, Album_ID) VALUES (2, 10, 'Metal Maids dude', 'Tom', 4);
